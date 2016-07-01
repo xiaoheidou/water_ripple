@@ -1,0 +1,23 @@
+{
+  "name": "water_ripple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoheidou/water_ripple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaoheidou/water_ripple/issues"
+  },
+  "homepage": "https://github.com/xiaoheidou/water_ripple#readme",
+  "devDependencies": {
+    "jquery": "^3.0.0"
+  }
+}
